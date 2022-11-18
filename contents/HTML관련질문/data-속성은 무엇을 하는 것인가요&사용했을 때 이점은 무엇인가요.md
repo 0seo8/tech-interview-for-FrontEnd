@@ -4,3 +4,5 @@ data-\* 속성은 사용자 지정 데이터 특성(custom data attributes)이�
 
 - html에서는 dashcase로 사용하며, 자바스크립트로 속성을 가져다 쓸 때는 camelCase를 사용합니다.
 - `document.getElementById("btn").dataset.codeId;`
+
+HTML5부터 적용되었으며, 데이터 속성을 이용하여 특정 데이터를 DOM요소에 저장해둘 수 있습니다.
