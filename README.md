@@ -8,7 +8,6 @@
 2. Get과 Post의 차이
 3. HTML와 HTML5의 차이
 4. CORS가 무엇이며 어떻게 해결을 할 수 있는가?
-5.
 
 ## 2. JavaScript
 
